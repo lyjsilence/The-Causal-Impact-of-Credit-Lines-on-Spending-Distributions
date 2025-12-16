@@ -16,6 +16,7 @@ python3 Simulation.py --start_exp 0 --end_exp 50
 After training, you can run "concat.py" to get the all experiment results.  
 
 ### Citation
+```
 @inproceedings{li2024causal,
   title={The causal impact of credit lines on spending distributions},
   author={Li, Yijun and Leung, Cheuk Hang and Sun, Xiangqian and Wang, Chaoqun and Huang, Yiyan and Yan, Xing and Wu, Qi and Wang, Dongdong and Huang, Zhixiang},
@@ -25,3 +26,4 @@ After training, you can run "concat.py" to get the all experiment results.
   pages={180--187},
   year={2024}
 }
+```
